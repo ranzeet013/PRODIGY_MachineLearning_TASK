@@ -3,6 +3,8 @@
 - **Objective**: Predict housing prices based on various features using regression analysis.
 - **Dataset Source**: Kaggle, featuring information like bedrooms, square footage, and location.
 
+[Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
 ## Getting Started:
 
 ### Prerequisites:
